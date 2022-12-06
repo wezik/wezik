@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wezik&langs_count=8&layout=compact&hide=Batchfile&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[Codewars profile](https://www.codewars.com/users/wezik)
+[Codewars profile](https://www.codewars.com/users/wezik) and my [solutions](https://github.com/wezik/solutions)
