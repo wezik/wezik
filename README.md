@@ -1,21 +1,10 @@
-### Hi there Dominik here👋
+### Hi there, I'm Dominik 👋
+I'm a software engineer that enjoys creating reliable and efficient software. I have commercial experience in **Java** and **Typescript** (mostly with **Angular**), and I've also worked on projects using **Vue** and **Rust** (which I love! 🦀).
 
-<!--
-**wezik/wezik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+Here's a fun little graph that shows my most-used languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wezik&langs_count=8&layout=compact&hide=Batchfile&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[Codewars profile](https://www.codewars.com/users/wezik) and my [solutions](https://github.com/wezik/solutions)
+(Caveat: This only shows my visible repositories, so there's likely much more Rust and Vue in my private repository chaos.)
+
+[Codewars profile](https://www.codewars.com/users/wezik)
