@@ -1,5 +1,5 @@
 ### Hi there, I'm Dominik 👋
-I'm a software engineer that enjoys creating reliable and efficient software. I have commercial experience in **Java** and **Typescript** (mostly with **Angular**), and I've also worked on projects using **Vue** and **Rust** (which I love! 🦀).
+I'm a software engineer that enjoys creating reliable and efficient software in multiple languages. I have commercial experience in **Java** and **Typescript** (mostly with **Angular**), and I've also worked on projects using **Vue** and **Rust** (which I love! 🦀).
 
 Here's a fun little graph that shows my most-used languages:
 
