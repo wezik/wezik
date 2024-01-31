@@ -14,7 +14,7 @@
   [![Front-end tools](https://skillicons.dev/icons?i=vue,angular,js,typescript,html,css)](https://skillicons.dev)
 
   ### Other 
-  My **Neovim** has more functionality than **Eclipse** at most places and it works (*usually*)  
+  My **Neovim** propably has more functionality than **Eclipse** at most scenarios and it works (*usually*)  
   **IntelliJ**, **VSCode**, SQL/NoSQL, Gradle/Maven, Cargo, NPM, Linux/Windows
 
   ## Fun time spells
