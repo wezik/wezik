@@ -3,9 +3,7 @@
    Hi there, I'm Dominik </h1>
 
   On day-to-day, I work as a **software engineer** building various things  
-  from internal DevOps tools to some simpler stuff  
-
-  In general, I prefer the non-stupid route, better code -> better mood
+  like internal devtools, webapps, parsers to some simpler stuff  
   
   ## My screws and wrenches 🛠  
   ### Back-end
