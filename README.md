@@ -3,7 +3,7 @@
    Hi there, I'm Dominik </h1>
 
   On day-to-day, I work as a **software engineer** building various things  
-  like internal devtools, webapps, parsers to some simpler stuff  
+  like internal devtools, webapps, parsers etc...
   
   ## My screws and wrenches 🛠  
   ### Back-end
@@ -12,8 +12,7 @@
   [![Front-end tools](https://skillicons.dev/icons?i=vue,angular,js,typescript,html,css)](https://skillicons.dev)
 
   ### Other 
-  My **Neovim** propably has more functionality than **Eclipse** at most scenarios and it works (*usually*)  
-  **IntelliJ**, **VSCode**, SQL/NoSQL, Gradle/Maven, Cargo, NPM, Linux/Windows
+  Usually I run **Neovim** & **IntelliJ** setup and I dual boot Windows with Linux or setup WSL at work at least
 
   ## Fun time spells
 
