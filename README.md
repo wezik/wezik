@@ -12,7 +12,8 @@
   [![Front-end tools](https://skillicons.dev/icons?i=vue,angular,js,typescript,html,css)](https://skillicons.dev)
 
   ### Other 
-  Usually I run **Neovim** & **IntelliJ** setup and I dual boot Windows with Linux or setup WSL at work at least
+  Usually I run **Neovim**/**IntelliJ** setup  
+  On dual booted **Windows**/**Linux** (*Ubuntu*) machine but I plan to move to NixOS  
 
   ## Fun time spells
 
