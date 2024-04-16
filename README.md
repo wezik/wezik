@@ -13,7 +13,7 @@
 
   ### Other 
   Usually I run **Neovim**/**IntelliJ** setup  
-  On dual booted **Windows**/**Linux** (*Ubuntu*) machine but I plan to move to NixOS  
+  On dual booted **Windows**/**Linux** (*Ubuntu*) machine
 
   ## Fun time spells
 
