@@ -2,8 +2,7 @@
   <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎩</br>
    Hi there, I'm Dominik </h1>
 
-  On day-to-day, I work as a **software engineer** building various things  
-  like internal devtools, webapps, parsers etc...
+  On day-to-day, I work as a **software engineer** building various things...
   
   ## My screws and wrenches 🛠  
   ### Back-end
@@ -17,8 +16,8 @@
 
   ## Fun time spells
 
-  Despite engineer stereotypes, I like to move and shake, whether it's **Gym**, **Muay Thai** or **Social Dancing**  
-  I do play **Violin** and **Guitar** too
+  Despite developers stereotypes, I like to move and shake, whether it's **Gym**, **Muay Thai** or **Social Dancing**  
+  I like **Violin** and **Guitar** too
   
 </div>
 
