@@ -5,20 +5,20 @@
   On day-to-day, I work as a **software engineer** building various things...
   
   ## My screws and wrenches 🛠  
-  ### Back-end
-  [![Back-end tools](https://skillicons.dev/icons?i=java,kotlin,go,rust)](https://skillicons.dev)  
-  ### Front-end
-  [![Front-end tools](https://skillicons.dev/icons?i=vue,angular,js,typescript,html,css)](https://skillicons.dev)
+  ### Main ones
+  [![Back-end tools](https://skillicons.dev/icons?i=java,kotlin,go)](https://skillicons.dev)  
+  ### Additionaly I can make stuff work in
+  [![Front-end tools](https://skillicons.dev/icons?i=rust,elixir,js,typescript)](https://skillicons.dev)
 
   ### Other 
-  Usually I run **Neovim**/**IntelliJ** setup  
-  On dual booted **Windows**/**Linux** (*Ubuntu*) machine
+  Usually I run **Neovim**/**IntelliJ** setup on **Linux** system
 
+<!---
   ## Fun time spells
 
   Despite developers stereotypes, I like to move and shake, whether it's **Gym**, **Muay Thai** or **Social Dancing**  
   I like **Violin** and **Guitar** too
-  
+-->  
 </div>
 
 <!-- 
