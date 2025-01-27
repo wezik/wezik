@@ -1,17 +1,21 @@
-<div id="header" align="center">
-  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎩</br>
-   Hi there, I'm Dominik </h1>
+  <h1>🎩</br>
+   Hi</h1>
 
-  On day-to-day, I work as a **software engineer** building various things...
+  I build various **stuff**, primarily tools, service and games
   
-  ## My screws and wrenches 🛠  
-  ### Main ones
-  [![Back-end tools](https://skillicons.dev/icons?i=java,kotlin,go)](https://skillicons.dev)  
-  ### Additionaly I can make stuff work in
-  [![Front-end tools](https://skillicons.dev/icons?i=rust,elixir,js,typescript)](https://skillicons.dev)
+  ## My stack 🛠  
+  ### Main cast
+  - **Kotlin** / Java
+  - **Zig**
+  ### Side characters
+  - Rust
+  - Go
+  - Elixir
+  - JS/TS
 
   ### Other 
-  Usually I run **Neovim**/**IntelliJ** setup on **Linux** system
+  - 🐧 (btw)
+  - :q (btw)
 
 <!---
   ## Fun time spells
@@ -19,7 +23,6 @@
   Despite developers stereotypes, I like to move and shake, whether it's **Gym**, **Muay Thai** or **Social Dancing**  
   I like **Violin** and **Guitar** too
 -->  
-</div>
 
 <!-- 
 
