@@ -1,7 +1,7 @@
   <h1>🎩</br>
    Hi</h1>
 
-  I build various **stuff**, primarily tools, service and games
+  I build various **stuff**, primarily tools, services and games
   
   ## My stack 🛠  
   ### Main cast
