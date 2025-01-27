@@ -15,14 +15,6 @@
 
   ### Other 
   - 🐧 (btw)
-  - :q (btw)
-
-<!---
-  ## Fun time spells
-
-  Despite developers stereotypes, I like to move and shake, whether it's **Gym**, **Muay Thai** or **Social Dancing**  
-  I like **Violin** and **Guitar** too
--->  
 
 <!-- 
 
