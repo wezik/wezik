@@ -1,20 +1,12 @@
-  <h1>🎩</br>
-   Hi</h1>
 
-  I build various **stuff**... mostly tools, services and games
-  
-  ## My stack 🛠  
-  ### Main cast
-  - **Kotlin** / Java
-  - **Zig**
-  ### Side characters
-  - Rust
-  - Go
-  - Elixir
-  - JS/TS
-
-  ### Other 
-  - 🐧 (btw)
+### 🛠 Tools
+- **Kotlin** / Java
+- **Go**
+- **Zig**
+#### Occasionally
+- Rust
+- Elixir
+- JS/TS
 
 <!-- 
 
