@@ -7,8 +7,8 @@
 ## 📌 Pins:  
 
 <p>
-  <a href="https://github.com/wezik/tmux-sessionizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wezik&repo=tmux-sessionizer&theme=tokyonight" />
+  <a href="https://github.com/wezik/thop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wezik&repo=thop&theme=tokyonight" />
   </a>
   <a href="https://github.com/wezik/aoc-kotlin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wezik&repo=aoc-kotlin&theme=tokyonight" />
