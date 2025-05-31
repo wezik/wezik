@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/wezik/thop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wezik&repo=thop&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wezik&repo=thop&theme=tokyonight&" />
   </a>
   <a href="https://github.com/wezik/aoc-kotlin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wezik&repo=aoc-kotlin&theme=tokyonight" />
