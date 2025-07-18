@@ -7,7 +7,7 @@
 
 ## Website
 
-[wezik.github.io](http://www.wezik.github.io) (wip)
+[wezik.github.io](http://wezik.github.io) (wip)
 
 ## 📌 Pins:  
 
