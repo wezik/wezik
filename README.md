@@ -1,8 +1,13 @@
 ## 🔧 Tools:  
+
 **Kotlin** / Java - For production  
 **Go** / Python - For tools and utils  
 **Rust** / Zig - When speed actually matters  
 **TS** / JS - When I want to regret it
+
+## Website
+
+https://www.wezik.github.io (wip)
 
 ## 📌 Pins:  
 
